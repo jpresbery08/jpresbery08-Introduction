@@ -1,5 +1,5 @@
-- 👋 Hi, I’m College Student currently in my 3rd Year 
-- 👀 I’m an aspiring Full-Stack Developer
+- 👋 Hi, I’m College Student heading into my 4th Year 
+- 👀 I’m an aspiring Software Engineer
 - 🌱 I'm double majoring in Computer Science along with Data Science
 - 💞️ I’m looking to learn by collaborating with other developers including aspiring developers
 - 📫 How to reach me @jpresbery08
